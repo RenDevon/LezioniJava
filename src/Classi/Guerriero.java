@@ -1,3 +1,5 @@
+package Classi;
+
 public class Guerriero {
 
     private String name;

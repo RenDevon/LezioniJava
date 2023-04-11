@@ -21,4 +21,6 @@ public class mains {
             }
         }
     }
+
+    //TODO stampa solo gli elementi duplicati
 }

@@ -9,6 +9,8 @@ public class EsercizioHelloWorld {
     public static void main(String[] args) {
         String ciao = "Ciao mondo";
 
+        System.out.println(ciao);
+
         //TODO stampa a schermo la stringa
 
     }
